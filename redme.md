@@ -1,0 +1,1 @@
+packages used: express, mongoose, jwt, cookie-parser, bcypt, dotenv
